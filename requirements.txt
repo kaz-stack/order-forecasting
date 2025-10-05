@@ -1,0 +1,9 @@
+pandas
+numpy==1.24.3
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+pmdarima==2.0.3
+prophet==1.1.4
+openpyxl
