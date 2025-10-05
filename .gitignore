@@ -1,0 +1,19 @@
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Prophet/ARIMA cache
+*.pkl
+*.model
+*.json
